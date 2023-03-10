@@ -99,12 +99,10 @@ While many data analysis are comfortable using languages like Python or Scala to
 
 df1.write.saveAsTable("products")
 
-1. When the cell has completed, add a new cell under it with the following code:
-2. %sql
-3.
-4. SELECT ProductName, ListPrice
-5. FROM products
-
+When the cell has completed, add a new cell under it with the following code:
+%sql
+SELECT ProductName, ListPrice
+FROM products
 WHERE Category = 'Touring Bikes';
 
 1. Run the new cell, which contains SQL code to return the name and price of products in the _Touring Bikes_ category.
