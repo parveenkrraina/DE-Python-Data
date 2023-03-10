@@ -16,9 +16,11 @@ In this exercise, you'll use a script to provision a new Azure Databricks worksp
 
 1. In a web browser, sign into the [Azure portal](https://portal.azure.com/) at [https://portal.azure.com](https://portal.azure.com/).
 2. Create a Resource Group with your name followed my xxxxxxRG (replace xxxxx with your name)
-3. Setup the name of Databricks workspace as **databricks-** _ **xxxxxxx** _ (replace xxxxx with your name)
+![](img1.png)
 
-![](RackMultipart20230310-1-tox827_html_178220c80e5da8f6.png)
+4. Setup the name of Databricks workspace as **databricks-** _ **xxxxxxx** _ (replace xxxxx with your name)
+
+![](img2.png)
 
 **Create a cluster**
 
@@ -86,7 +88,7 @@ display(df1)
 
 Save the visualization and observe that it is displayed in the notebook, like this:
 
-[![](RackMultipart20230310-1-tox827_html_b075433d30ead64.png)](https://github.com/MicrosoftLearning/dp-203-azure-data-engineer/blob/master/Instructions/Labs/images/databricks-chart.png)
+![](img3.png)
 
 **Create and query a database table**
 
