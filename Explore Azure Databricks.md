@@ -20,7 +20,7 @@ In this exercise, you'll use a script to provision a new Azure Databricks worksp
 
 4. Setup the name of Databricks workspace as **databricks-** _ **xxxxxxx** _ (replace xxxxx with your name)
 
-![](img2.png)
+![](img4.png)
 
 **Create a cluster**
 
