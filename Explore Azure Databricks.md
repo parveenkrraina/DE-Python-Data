@@ -15,8 +15,7 @@ You'll need an [Azure subscription](https://azure.microsoft.com/free) in which y
 In this exercise, you'll use a script to provision a new Azure Databricks workspace.
 
 1. In a web browser, sign into the [Azure portal](https://portal.azure.com/) at [https://portal.azure.com](https://portal.azure.com/).
-2. C ![](RackMultipart20230310-1-tox827_html_178220c80e5da8f6.png)
- reate a Resource Group with your name followed my xxxxxxRG (replace xxxxx with your name)
+2. Create a Resource Group with your name followed my xxxxxxRG (replace xxxxx with your name)
 3. Setup the name of Databricks workspace as **databricks-** _ **xxxxxxx** _ (replace xxxxx with your name)
 
 ![](RackMultipart20230310-1-tox827_html_178220c80e5da8f6.png)
