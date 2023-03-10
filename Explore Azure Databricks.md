@@ -101,7 +101,7 @@ df1.write.saveAsTable("products")
 
 When the cell has completed, add a new cell under it with the following code:
 
-**%sql
+%sql
 SELECT ProductName, ListPrice
 FROM products
 WHERE Category = 'Touring Bikes';
